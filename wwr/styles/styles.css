@@ -1,0 +1,30 @@
+#background{
+    height: 725px;
+}
+body{
+    background-color: #c05151;
+    margin-top: 0 auto;
+    margin-bottom: 0 auto;
+    max-width: 1600px;
+}
+header{
+    background-color: rgba(20, 30n, 13, .7);
+}
+nav a:hover{
+    background-color: black;
+    color: white;
+}
+.icon{
+    width: 80px;
+}
+nav a{
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+footer h3 a:hover{
+    text-decoration: underline;
+}
+section{
+    text-align: center;
+}
