@@ -1,0 +1,17 @@
+.circle{
+    margin: 0px;
+    width: 100%
+}
+.graphic, .person, .desk{
+    width: 200px;
+    border-radius: 1000px;
+    padding: 20px;
+    background-color: black;
+    margin-inline: 50px;
+    height: 50%;
+}
+section{
+    background-color: grey;
+    text-align: center;
+    height: 100%
+}
